@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2021-12-30T00:38:32-05:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/blueMSX-libretro.git"
+pkg_repo_branch="master"
+pkg_repo_commit="f0f2c531142c40f0dfb1fd1a377aa6891b14e55d"
+pkg_repo_date="2021-12-21T20:54:44+01:00"
+pkg_repo_extra=""

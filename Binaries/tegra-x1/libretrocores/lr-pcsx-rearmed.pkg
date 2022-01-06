@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2021-12-30T20:20:27-05:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/pcsx_rearmed.git"
+pkg_repo_branch="master"
+pkg_repo_commit="12fc12797064599dfca2d44043d5c02a949711ef"
+pkg_repo_date="2021-12-21T21:10:18+01:00"
+pkg_repo_extra=""

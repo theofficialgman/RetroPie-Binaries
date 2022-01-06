@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2021-12-30T20:27:02-05:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/hrydgard/ppsspp.git"
+pkg_repo_branch="master"
+pkg_repo_commit="6f6cd6069f62f2c12ff7f118b3631357d4d2143e"
+pkg_repo_date="2021-12-23T15:51:36+00:00"
+pkg_repo_extra=""

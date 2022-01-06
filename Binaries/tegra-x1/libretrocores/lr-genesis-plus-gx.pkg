@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2021-12-30T00:45:26-05:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/Genesis-Plus-GX.git"
+pkg_repo_branch="master"
+pkg_repo_commit="33aef5e97dc638f8b6a55915d0cbc41c1bdf6e3a"
+pkg_repo_date="2021-12-24T15:14:40+00:00"
+pkg_repo_extra=""
