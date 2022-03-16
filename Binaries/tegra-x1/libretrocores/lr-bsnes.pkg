@@ -1,5 +1,5 @@
 pkg_origin="source"
-pkg_date="2021-12-30T00:38:54-05:00"
+pkg_date="2022-03-15T19:52:39-04:00"
 pkg_repo_type="git"
 pkg_repo_url="https://github.com/libretro/bsnes.git"
 pkg_repo_branch="master"

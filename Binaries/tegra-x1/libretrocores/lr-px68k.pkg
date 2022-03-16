@@ -1,5 +1,5 @@
 pkg_origin="source"
-pkg_date="2021-12-30T20:28:19-05:00"
+pkg_date="2022-03-16T03:31:42-04:00"
 pkg_repo_type="git"
 pkg_repo_url="https://github.com/libretro/px68k-libretro.git"
 pkg_repo_branch="master"
