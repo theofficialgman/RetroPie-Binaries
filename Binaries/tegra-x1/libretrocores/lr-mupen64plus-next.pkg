@@ -1,5 +1,5 @@
 pkg_origin="source"
-pkg_date="2022-03-16T03:23:16-04:00"
+pkg_date="2022-04-09T00:49:53-04:00"
 pkg_repo_type="git"
 pkg_repo_url="https://github.com/libretro/mupen64plus-libretro-nx.git"
 pkg_repo_branch="develop"
