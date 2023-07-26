@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-06-02T04:01:01+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/beetle-wswan-libretro.git"
+pkg_repo_branch="master"
+pkg_repo_commit="a0ddcd3f084f5b4eb06acb6e03b8c4707a2f6123"
+pkg_repo_date="2023-05-26T17:28:11+00:00"
+pkg_repo_extra=""

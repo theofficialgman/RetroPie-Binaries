@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2022-10-23T18:54:35+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/smsplus-gx.git"
+pkg_repo_branch="master"
+pkg_repo_commit="60af17ddb2231ba98f4ed1203e2a2f58d08ea088"
+pkg_repo_date="2022-07-26T14:24:37+02:00"
+pkg_repo_extra=""

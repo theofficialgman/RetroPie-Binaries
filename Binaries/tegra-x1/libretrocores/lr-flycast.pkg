@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2022-10-23T17:08:20+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/flycast.git"
+pkg_repo_branch="master"
+pkg_repo_commit="4c293f306bc16a265c2d768af5d0cea138426054"
+pkg_repo_date="2022-04-06T22:50:54+02:00"
+pkg_repo_extra=""

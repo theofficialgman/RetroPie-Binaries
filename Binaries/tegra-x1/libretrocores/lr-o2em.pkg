@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-02-24T05:42:19+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/libretro-o2em"
+pkg_repo_branch="master"
+pkg_repo_commit="a2a12472fde910b6089ac3ca6de805bd58a9c999"
+pkg_repo_date="2023-02-21T17:06:15+01:00"
+pkg_repo_extra=""

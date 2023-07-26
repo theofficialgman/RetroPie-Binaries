@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-06-02T06:08:08+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/virtualjaguar-libretro.git"
+pkg_repo_branch="master"
+pkg_repo_commit="8126e5c504ac7217a638f38e4cd9190822c8abdd"
+pkg_repo_date="2023-06-01T18:20:18+02:00"
+pkg_repo_extra=""

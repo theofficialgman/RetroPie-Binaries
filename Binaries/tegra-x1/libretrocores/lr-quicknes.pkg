@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-06-02T05:49:48+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/QuickNES_Core.git"
+pkg_repo_branch="master"
+pkg_repo_commit="058d66516ed3f1260b69e5b71cd454eb7e9234a3"
+pkg_repo_date="2023-05-28T05:55:59+02:00"
+pkg_repo_extra=""

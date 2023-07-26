@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2022-10-23T18:38:24+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/mame2016-libretro.git"
+pkg_repo_branch="master"
+pkg_repo_commit="01058613a0109424c4e7211e49ed83ac950d3993"
+pkg_repo_date="2022-04-06T22:13:09+02:00"
+pkg_repo_extra=""

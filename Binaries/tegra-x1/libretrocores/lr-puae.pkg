@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-07-21T05:46:14+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/libretro-uae.git"
+pkg_repo_branch="master"
+pkg_repo_commit="2cc53e25d26ad1b79759e28f0f24631cb1466539"
+pkg_repo_date="2023-07-18T21:55:06+03:00"
+pkg_repo_extra=""

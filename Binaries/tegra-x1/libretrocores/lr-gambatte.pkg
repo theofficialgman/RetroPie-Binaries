@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-07-21T04:07:09+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/gambatte-libretro.git"
+pkg_repo_branch="master"
+pkg_repo_commit="8898bdf97ba3099fd408591b76c69e4c114cc27b"
+pkg_repo_date="2023-07-14T10:52:57+00:00"
+pkg_repo_extra=""

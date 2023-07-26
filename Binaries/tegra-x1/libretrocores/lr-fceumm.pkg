@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-06-23T04:05:43+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/libretro-fceumm.git"
+pkg_repo_branch="master"
+pkg_repo_commit="f068818c4d68620c31eca0c02a5891ee3096b645"
+pkg_repo_date="2023-06-20T06:41:34+02:00"
+pkg_repo_extra=""

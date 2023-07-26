@@ -1,0 +1,8 @@
+pkg_origin="source"
+pkg_date="2023-06-02T06:05:20+00:00"
+pkg_repo_type="git"
+pkg_repo_url="https://github.com/libretro/tyrquake.git"
+pkg_repo_branch="master"
+pkg_repo_commit="77217664a09afe893a06be8e3e8f9611184636f8"
+pkg_repo_date="2023-05-28T05:54:52+02:00"
+pkg_repo_extra=""
