@@ -12,6 +12,8 @@ if [[ "$(id -u)" -ne 0 ]]; then
     exit 1
 fi
 
+SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+
 export package_list=( lr-atari800 lr-beetle-ngp lr-beetle-nsp lr-beetle-pce-fast lr-beetle-supergrafx lr-beetle-vb \
 lr-beetle-wswan lr-bluemsx lr-bsnes lr-caprice32 lr-desmume lr-fbneo lr-fceumm lr-flycast lr-freeintv lr-fuse \
 lr-gambatte lr-genesis-plus-gx lr-gw lr-handy lr-hatari lr-mame lr-mame2003 lr-mame2010 lr-mame2016 lr-mesen \
@@ -44,7 +46,7 @@ for package in ${package_list[@]}; do
 done
 
 cd "/home/$SUDO_USER/retropie-local-binaries" || error "could not change directory"
-sudo -E -u "$SUDO_USER" bash ./retropie-binaries-updater.sh "${package_list[@]}"
+sudo -E -u "$SUDO_USER" bash "$SCRIPT_DIR/retropie-binaries-updater.sh" "${package_list[@]}"
 echo "dropping caches (freeing ram)"
 sync
 echo 3 > /proc/sys/vm/drop_caches
